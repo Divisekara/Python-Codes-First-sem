@@ -1,0 +1,18 @@
+The Problem
+Given a sequence of k elements, we obtain its difference sequence by taking the difference between each pair of adjacent elements. That is, the difference sequence of sequence (a1,a2,a3,.... ak) is (b1, b2 b3..... bk-1), where bi = ai+1-ai
+
+The derivative sequence of order N o a sequence is the result of repeadetly applying the above process N times. For eample, if A=(5,6,3,9,-1), the derivative sequence of roder 2 of A: (5,6,3,9,-1) --> (1,-3,6,10) ---> (-4,9,-16).
+
+Develop a python program to read as input a sequence A of integers followed by another integer N from a file and output the derivative sequence of roder N of the input sequence A. he first line of the input is the sequence A of k integers seperated by space and the second line is N. Note that the length of A is k, 1<=k<=100 and N<k.
+
+Sample Input 1 (input file):
+4 8 5 6 7 9
+1
+Output (on screen and output file):
+4 -3 1 1 2
+
+Sample Input 2 (input file):
+5 6 3 9 -1
+4
+Output (on screen and output file):
+-38

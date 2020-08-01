@@ -1,0 +1,2 @@
+Input N read from the file: 192
+First five palindromic primes > N:101 131 151 181 191

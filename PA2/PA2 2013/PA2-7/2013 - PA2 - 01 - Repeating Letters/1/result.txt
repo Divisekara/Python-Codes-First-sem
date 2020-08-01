@@ -1,0 +1,4 @@
+rat - 0
+batsman - 1
+kitty - 1
+bookkeeper - 3

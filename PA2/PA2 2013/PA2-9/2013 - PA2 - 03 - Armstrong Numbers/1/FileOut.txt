@@ -1,0 +1,2 @@
+M and N : 100 10000 
+Armstrong Numbers Between M and N : 153 370 371 407 1634 8208 9474

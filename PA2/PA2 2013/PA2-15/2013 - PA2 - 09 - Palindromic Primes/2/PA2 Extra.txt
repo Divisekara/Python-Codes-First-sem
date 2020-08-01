@@ -1,0 +1,22 @@
+Develop a Python program that reads a sequence of non-negative integers between 1 and 10,000 from a file "input.txt" and prints the expansion of each number in reverse order in base (radix) 10. 
+
+You must use functions in your program as follows:
+
+A function "read_input()" with no arguments to read the input from the file.
+
+A function "expand(m)" that takes an integer m as argument (parameter) and displays the expansion of m in reverse order in base (radix) 10.
+
+The main program should call the above two functions appropriately to get the task completed.
+
+Note that you should call expand(i) from the main program for each integer i in the input list, and you could do this in a loop.
+
+You may define other functions in your program. The input file "input.txt" contains the list of integers in a single line, separated by space. The output (expansion) for each number should be on a separate line.
+
+
+Sample input (in the input file): 
+4937 35 628
+
+Output: 
+4937 = 7*1 + 3*10 + 9*100 + 4*1000
+35 = 5*1 + 3*10
+628 = 8*1 + 2*10 + 6*100

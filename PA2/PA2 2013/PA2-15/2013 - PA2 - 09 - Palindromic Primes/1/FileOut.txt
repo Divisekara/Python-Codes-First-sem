@@ -1,0 +1,2 @@
+Input N read from the file : 100
+First five PalindromePrimes > N : 101 131 151 181 191

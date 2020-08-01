@@ -1,0 +1,3 @@
+rat - 3
+batsman - 6
+kitty - 4

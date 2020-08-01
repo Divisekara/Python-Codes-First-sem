@@ -1,0 +1,4 @@
+Class average: 15.93
+Amila average: 15.80
+Neela average: 13.40
+Kamal average: 18.60
